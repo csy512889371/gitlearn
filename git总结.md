@@ -37,6 +37,8 @@
 
 ## 脚本
 
+### 提交代码过程
+
 ```shell
 git config --global user.name 'nick'
 git config --global user.email '512889371@qq.com'
@@ -51,7 +53,11 @@ git push origin master -u
 
 ```
 
+### 拉取代码过程
 
+```shell
+git clone https://github.com/csy512889371/gitlearn.git
+```
 
 
 
